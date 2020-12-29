@@ -1,0 +1,79 @@
+<object-stream>
+  <list>
+    <application.model.ManagerUser>
+      <userId>2020002</userId>
+      <foreName>Becky</foreName>
+      <surName>T</surName>
+      <phoneNumber>123</phoneNumber>
+      <dob resolves-to="java.time.Ser">
+        <byte>3</byte>
+        <int>2000</int>
+        <byte>12</byte>
+        <byte>19</byte>
+      </dob>
+      <email>@.</email>
+      <password>12345678</password>
+      <userType>A</userType>
+    </application.model.ManagerUser>
+    <application.model.ManagerUser>
+      <userId>2020005</userId>
+      <foreName>Adam</foreName>
+      <surName>O&apos;Brien</surName>
+      <phoneNumber>08</phoneNumber>
+      <dob resolves-to="java.time.Ser">
+        <byte>3</byte>
+        <int>2001</int>
+        <byte>6</byte>
+        <byte>26</byte>
+      </dob>
+      <email>@.</email>
+      <password>12345678</password>
+      <userType>A</userType>
+    </application.model.ManagerUser>
+    <application.model.ManagerUser>
+      <userId>2020006</userId>
+      <foreName>St</foreName>
+      <surName>Troy</surName>
+      <phoneNumber>12</phoneNumber>
+      <dob resolves-to="java.time.Ser">
+        <byte>3</byte>
+        <int>2020</int>
+        <byte>10</byte>
+        <byte>27</byte>
+      </dob>
+      <email>@.</email>
+      <password>12345678</password>
+      <userType>A</userType>
+    </application.model.ManagerUser>
+    <application.model.CustomerUser>
+      <userId>2020003</userId>
+      <foreName>Pauline</foreName>
+      <surName>Cull</surName>
+      <phoneNumber>78</phoneNumber>
+      <dob resolves-to="java.time.Ser">
+        <byte>3</byte>
+        <int>1990</int>
+        <byte>5</byte>
+        <byte>18</byte>
+      </dob>
+      <email>@.</email>
+      <password>12345678</password>
+      <userType>C</userType>
+    </application.model.CustomerUser>
+    <application.model.ManagerUser>
+      <userId>2020004</userId>
+      <foreName>Test</foreName>
+      <surName>Manager</surName>
+      <phoneNumber>08366666</phoneNumber>
+      <dob resolves-to="java.time.Ser">
+        <byte>3</byte>
+        <int>1993</int>
+        <byte>8</byte>
+        <byte>3</byte>
+      </dob>
+      <email>me@gmail.com</email>
+      <password>12345678</password>
+      <userType>A</userType>
+    </application.model.ManagerUser>
+  </list>
+</object-stream>
